@@ -1,0 +1,66 @@
+#menu{
+ margin-top: 70px;
+ margin-left: 180px;
+}
+.row a img{
+ margin-top: 30px;
+ margin-right: 40px;
+ border-radius: 10px;
+}
+div #menu{
+ width: 1100px;
+}
+.ksoal{
+ margin-top: 20px;
+ margin-left: 345px;
+}
+.winner{
+  height: 150px;
+}
+
+
+
+
+img.home-logo{
+    margin-top: -10px;
+}
+
+.table-soal {
+    width: 80%;
+    margin: auto;
+}
+
+button.btn-margin.btn.btn-primary.btn-md.pull-left {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.welcome h1#hello{
+    font-size: 140px;
+    font-weight: bold;
+    padding: 50px 0;
+    color: #28B779;
+}
+
+fieldset#user-message{
+	color: #28B779;	
+	text-align: center;
+}
+
+#choose-message, #choose-category, #ranking-title, #category-title, #prepare-message{
+	color: #28B779;	
+	text-align: center;
+}
+
+.panel{
+    margin-top: 30px;
+}
+
+#title-panel{
+    padding: 0 auto;
+}
+
+.quiz-rule{
+    color: #28B779; 
+    text-align: left;
+}

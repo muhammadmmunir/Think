@@ -1,0 +1,102 @@
+#menu{
+	margin-top: 70px;
+	margin-left: 180px;
+}
+.row a img{
+	margin-top: 30px;
+	margin-right: 40px;
+	border-radius: 10px;
+}
+div #menu{
+	width: 1100px;
+}
+.ksoal{
+	margin-top: 20px;
+	margin-left: 345px;
+}
+.winner p{
+	width: 250px;
+	height: 100px;
+	margin-top: 20px;
+	margin-right: 50px;
+	display: inline-block;
+	font-size: 35px;
+	padding-top: 25px;
+	font-weight: 1000;
+	padding-left: 40px;
+
+}
+
+/*TABLE STYLE*/
+h1{
+  font-size: 20px;
+  color: black;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 15px;
+}
+table{
+  width:100%;
+  table-layout: fixed;
+}
+.tbl-header{
+  background-color: #5cd65c;
+  border: 1px solid #cccccc;
+ }
+ .tbl-header tr:hover{
+ 	background-color: #5cd65c;
+ }
+.tbl-content{
+  height:250px;
+  overflow-x:auto;
+  margin-top: 0px;
+  border: 1px solid #cccccc;
+}
+.tbl-content tr:hover{
+	background-color: #d9ffb3;
+}
+th{
+  padding: 20px 15px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+  color: black;
+  text-transform: uppercase;
+}
+td{
+  padding: 15px;
+  text-align: center;
+  vertical-align:middle;
+  font-weight: 300;
+  font-size: 12px;
+  color: black;
+  border-bottom: solid 1px #cccccc;
+}
+tbody tr{
+	height: 50px;
+}
+.winner .tbl-header{
+  height: 60px;
+  width: 280px;
+}
+.winner .tbl-content{
+  width: 280px;
+  height: 50px;
+}
+.winner span{
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.winner .tbl-content th{
+  height: 40px;
+  padding: 20px 5px;
+}
+.winner .tbl-content th{
+  height: 40px;
+  padding: 10px 5px;
+}
+.winner .tbl-content tr:hover{
+  background-color: white;
+}
